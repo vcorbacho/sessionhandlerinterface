@@ -1,7 +1,7 @@
 {
 	"name": "vcorbacho/sessionhandlerinterface",
 	"autoload": {
-		"classmap":[sessionhandlerinterface.php]
+		"classmap":["sessionhandlerinterface.php"]
 	},
 	"description": "PHP 5.3 compatibility for PHP 5.4 SessionHandlerInterface",
 	"keywords": ["session handler", "php"],
