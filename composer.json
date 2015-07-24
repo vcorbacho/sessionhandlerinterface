@@ -1,8 +1,9 @@
 {
-	"name": "vcorbacho/session_handler_interface.php",
+	"name": "vcorbacho/sessionhandlerinterface.php",
+	"autoload": {"psr-4":{"vcorbacho\\":"src/"}}
 	"description": "PHP 5.3 compatibility for PHP 5.4 SessionHandlerInterface",
 	"keywords": ["session handler", "php"],
-    "homepage": "https://github.com/vcorbacho/session_handler_interface_php5.3",
+    	"homepage": "https://github.com/vcorbacho/sessionhandlerinterface",
 	"license": "GPLv3",
 	"authors": [
         {
